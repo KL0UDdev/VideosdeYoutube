@@ -1,6 +1,6 @@
 .jumbotron{
-    background: #333 url("twin01.jpg");
+    background: #2f2842 url("twin01.jpg");
     background-size: cover;
-    color: #ffffff;
+    color: #d7a6f3;
     overflow: hidden;
 }
